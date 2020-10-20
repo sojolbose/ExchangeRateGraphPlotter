@@ -1,0 +1,11 @@
+.svg{
+    border: 2px solid pink;
+    margin-top: 20px;
+    z-index: 100000;
+}
+
+
+.logo{
+    stroke:#f7fff7;
+    stroke-width: 10px;
+}

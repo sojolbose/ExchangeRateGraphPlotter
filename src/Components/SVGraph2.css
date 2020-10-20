@@ -1,0 +1,45 @@
+.horizontalGrid {
+    stroke: lightgrey;
+  }
+
+.chartYAxisLabel{
+  stroke: #FFE66D;
+  stroke-width: 0.5;
+  fill: none;
+}
+
+.chartXAxisLabel{
+  stroke: #FFE66D;
+  stroke-width: 0.5;
+  fill: none;
+}
+
+.chartTitle{
+  display: none;
+  font-size: 3em;
+  stroke: pink;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.horizontalGrid{
+  stroke: #FFE66D;
+  opacity: 0.1;
+}
+
+#tooltip-text{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.7em;
+  font-weight: bold;
+}
+
+#tooltip-close{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.7em;
+  font-weight: bold;
+}
+
+#tooltip-date{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.7em;
+  font-weight: bold;
+}

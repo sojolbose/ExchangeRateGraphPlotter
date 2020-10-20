@@ -1,0 +1,38 @@
+/* body{
+	margin: 0;
+	padding: 0;
+}
+section{
+	font-size:3rem;
+	position:relative;
+	height:100vh;
+	
+	
+}
+
+
+section > h1{position:absolute;
+top:40%;
+left:50%;
+transform:translate(-50%,-50%);
+} */
+
+
+
+/* .particles-js{
+	opacity: 0.2;
+	z-index: -100;
+	position: fixed !important;
+	top: 0px;
+	left: 0px;
+	height: 100%;
+	width: 100%;
+} */
+
+.main{
+	position: "absolute";
+	top: 0;
+	left: 0,;
+	width: "100%";
+	height: "100%";
+}
